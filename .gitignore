@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+kaggle.json
+data/
+outputs/
+checkpoints/
+runs/
+*.pth
+*.pt
+*.ckpt
+external_models/brain_mri_inpaint_gan/00007_INPAINT_BRAIN_MRI.zip
